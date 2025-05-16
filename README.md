@@ -26,7 +26,7 @@ Tenho mais de 10 anos de experiência em finanças corporativas, com atuação e
 
 ## 📂 Projetos em destaque
 
-🔐 **SafraTasy**  
+🔐 **BancoERP**  
 App de conciliação bancária entre extratos do Banco e lançamentos do ERP, com interface interativa em Streamlit e empacotamento em `.exe`.
 
 🧮 **Automatizador de Fluxo de Caixa**  
