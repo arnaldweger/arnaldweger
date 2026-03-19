@@ -15,7 +15,7 @@ Tenho mais de 10 anos de experiência em finanças corporativas, com atuação e
 
 ## 🔧 Tecnologias & Ferramentas
 
-- **Python** (Pandas, Plotly, Streamlit, OpenPyXL)
+- **Python** (Pandas, Plotly, Streamlit, OpenPyXL, Customtkinter)
 - **Automação de processos financeiros**
 - **Integração com arquivos CSV, XLSX, sistemas ERP**
 - **Power BI, Excel**
