@@ -2,7 +2,7 @@
 
 🎯 **Profissional de Finanças com foco em Tecnologia e Automação de Processos**
 
-Tenho mais de 10 anos de experiência em finanças corporativas, com atuação em:
+Tenho mais de 15 anos de experiência em finanças corporativas, com atuação em:
 
 - 📊 **Conciliação bancária**, **fluxo de caixa** e **planejamento financeiro**
 - 🏥 Integração com sistemas **ERP (Tasy, entre outros)**
@@ -15,7 +15,7 @@ Tenho mais de 10 anos de experiência em finanças corporativas, com atuação e
 
 ## 🔧 Tecnologias & Ferramentas
 
-- **Python** (Pandas, Plotly, Streamlit, OpenPyXL, Customtkinter)
+- **Python** (Pandas, Plotly, Streamlit, Dash, OpenPyXL, Customtkinter)
 - **Automação de processos financeiros**
 - **Integração com arquivos CSV, XLSX, sistemas ERP**
 - **Power BI, Excel**
