@@ -6,7 +6,7 @@ Tenho mais de 10 anos de experiência em finanças corporativas, com atuação e
 
 - 📊 **Conciliação bancária**, **fluxo de caixa** e **planejamento financeiro**
 - 🏥 Integração com sistemas **ERP (Tasy, entre outros)**
-- 🛠️ Desenvolvimento de soluções com **Python**, especialmente para automações com **Streamlit**, **Pandas** e **Matplotlib**
+- 🛠️ Desenvolvimento de soluções com **Python**, especialmente para automações com **Streamlit**, **Pandas**, **Dash**, **Plotly** e **Matplotlib**
 - 📦 Empacotamento de aplicações com **Nuitka**, **PyWebView** e **Inno Setup**
 - 📉 Análises e dashboards com **Power BI** e **Excel avançado**
 - 🧾 Experiência em processos de **compras**, **implantação de sistemas**, e **relatórios gerenciais**
