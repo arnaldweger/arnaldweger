@@ -15,9 +15,9 @@
 
 ## Sobre mim
 
-Profissional de **Planejamento e Compras** em ambiente hospitalar com mais de 10 anos de experiência em finanças corporativas e supply chain. Combino expertise operacional com desenvolvimento de soluções em Python para automação de processos, análise de dados e dashboards interativos.
+Analista financeiro com mais de 15 anos de experiência em tesouraria, conciliação, fluxo de caixa e planejamento, incluindo quase 9 anos à frente do financeiro de empresa própria.
 
-Atuo na interface entre **operações financeiras**, **ERP** e **tecnologia** — transformando dados brutos de sistemas como Tasy e GTPlan em inteligência aplicada.
+Automatizo processos financeiros e operacionais com Python, Power BI e Excel: desenvolvi um sistema interno usado diariamente pela equipe de planejamento, compras e tesouraria em ambiente hospitalar.
 
 ```text
 Planejamento & Compras     ████████████████████  10+ anos
